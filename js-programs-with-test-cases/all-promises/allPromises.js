@@ -5,17 +5,17 @@ const allPromises = (args = []) => {
   let counter = 0;
   /* To resolve/reject based on args items */
   return new Promise((resolve, reject) => {
-  /* Iterating the given promises array */
+    /* Iterating the given promises array */
     args.forEach((promise, index) => {
       Promise.resolve(promise)
-        .then(item => {
+        .then((item) => {
           counter += 1;
           arrResolved[index] = item;
           if (counter === args.length) {
             resolve(arrResolved);
           }
         })
-        .catch(err => {
+        .catch((err) => {
           reject(err);
         });
     });
