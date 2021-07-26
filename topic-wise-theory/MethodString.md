@@ -1,0 +1,30 @@
+# String Method 
+
+- charAt()
+- charCodeAt()
+- concat()
+- constructor
+- endsWith()
+- fromCharCode()
+- includes()
+- indexOf()
+- lastIndexOf()
+- length
+- localeCompare()
+- match()
+- prototype
+- repeat()
+- replace()
+- search()
+- slice()
+- split()
+- startsWith()
+- substr()
+- substring()
+- toLocaleLowerCase()
+- toLocaleUpperCase()
+- toLowerCase()
+- toString()
+- toUpperCase()
+- trim()
+- valueOf()

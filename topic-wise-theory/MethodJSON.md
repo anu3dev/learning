@@ -1,0 +1,4 @@
+# JSON Method
+
+- parse()
+- stringify()

@@ -1,0 +1,42 @@
+# Math Method
+
+- abs()
+- acos()
+- acosh()
+- asin()
+- asinh()
+- atan()
+- atan2()
+- atanh()
+- cbrt()
+- ceil()
+- clz32()
+- cos()
+- cosh()
+- E
+- exp()
+- expm1() 
+- floor() => Round a number downward to its nearest integer.
+- fround()
+- LN2
+- LN10
+- log()
+- log10()
+- log1p()
+- log2()
+- LOG2E
+- LOG10E
+- max()
+- min()
+- PI
+- pow()
+- random()
+- round()
+- sign()
+- sin()
+- sqrt()
+- SQRT1_2
+- SQRT2
+- tan()
+- tanh()
+- trunc()
